@@ -27,7 +27,8 @@ print(f"{distance:.2f}")
 ```
 
 ### OUTPUT:
-!["Output"](/distance.png)
+![distance](https://github.com/Arun2005-create/DISTANCE-BETWEEN-TWO-POINTS/assets/138849356/b6da17bb-3882-4bab-91c1-10b8da3be38d)
+
 
 ### RESULT:
 Thus the python program for Distance Between Two Values is executed successfully
